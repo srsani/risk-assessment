@@ -1,0 +1,14 @@
+
+Ingestion date: 13/02/2023 11:00:24
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
