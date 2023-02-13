@@ -39,7 +39,7 @@ logging.basicConfig(
     datefmt="%Y-%m-%d %H:%M:%S")
 
 
-def model_predictions():
+def model_predictions(df_X):
     """
     Function to get model predictions
 
@@ -48,11 +48,6 @@ def model_predictions():
     Returns:
         list: list containing all predictions
     """
-
-    logging.info("loading test data")
-    df = pd.read_csv(f"{setup.TEST_DATA_PATH}/testdata.csv")
-    X = df.drop(['corporation', 'exited'], axis=1)
-    y = df['exited'].values
 
     model = load(f"{setup.OUTPUT_MODEL_PATH}/trainedmodel.joblib")
 
@@ -175,7 +170,13 @@ def outdated_packages_list():
 if __name__ == '__main__':
     logging.info("diagnostics")
     setup = Settings()
-    y_pred, f1 = model_predictions()
+
+    logging.info("loading test data")
+    df = pd.read_csv(f"{setup.TEST_DATA_PATH}/testdata.csv")
+    X = df.drop(['corporation', 'exited'], axis=1)
+    y = df['exited'].values
+
+    y_pred, f1 = model_predictions(X)
     stat_dict = dataframe_summary()
     execution_time()
     outdated_packages_list()
