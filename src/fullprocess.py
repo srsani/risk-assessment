@@ -48,15 +48,15 @@ def go():
     if not new_file_list:
         logging.info("new file not found")
         return None
-    if new_file_list:
 
+    # condition if there is new file continue
+    if new_file_list:
         logging.info("merging data")
         subprocess.run(['python', 'src/ingestion.py'], capture_output=True)
         # Checking for model drift
         with open(f"{setup.PROD_DEPLOYMENT_PATH}/latestscore.txt") as file:
             current_f1 = float(re.findall(
                 r"[-+]?(?:\d*\.*\d+)", file.read())[-1])
-            print(current_f1)
 
         logging.info("train a new model")
         subprocess.run(['python', 'src/training.py'], capture_output=True)
@@ -74,7 +74,9 @@ def go():
             return None
 
         if(new_f1_score >= current_f1):
-            # deploy the new model
+            # run deploy only if the new f1 score is better that the
+            # currnet one which means we have a model drift
+            # the new model
             subprocess.run(['python', 'src/deployment.py'],
                            capture_output=True)
 
