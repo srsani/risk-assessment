@@ -29,3 +29,8 @@ In this repo, I'm working on creating, deploying, and monitoring a risk assessme
 ### diagnostics
 
 `python src/diagnostics.py`
+
+## API
+
+- `python src/app.py`
+- `

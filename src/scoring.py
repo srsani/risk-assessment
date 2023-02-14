@@ -50,9 +50,11 @@ def score_model(setup):
     with open(f"{setup.OUTPUT_MODEL_PATH}/latestscore.txt", "w") as f:
         time_stamp = datetime.now()
         f.write(f"{time_stamp} - f1 score = {f1}\n")
+    return f1
 
 
 if __name__ == '__main__':
     logging.info("model scoring")
     setup = Settings()
-    score_model(setup)
+    f1 = score_model(setup)
+    print(f1)

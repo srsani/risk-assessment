@@ -18,6 +18,8 @@ from functools import wraps
 from time import time
 from datetime import datetime
 
+setup = Settings()
+
 
 def timing(f):
     @wraps(f)
@@ -39,7 +41,7 @@ logging.basicConfig(
     datefmt="%Y-%m-%d %H:%M:%S")
 
 
-def model_predictions(df_X):
+def model_predictions(df_X, y):
     """
     Function to get model predictions
 
@@ -52,7 +54,7 @@ def model_predictions(df_X):
     model = load(f"{setup.OUTPUT_MODEL_PATH}/trainedmodel.joblib")
 
     logging.info("running predictions on test_data")
-    y_pred = model.predict(X)
+    y_pred = model.predict(df_X)
     f1 = metrics.f1_score(y, y_pred)
     logging.info(f"test f1 score: {f1}")
 
@@ -136,11 +138,11 @@ def execution_time():
     return [{'ingest_time_mean': np.mean(ingestion_time)},
             {'train_time_mean': np.mean(training_time)}]
 
-# Function to check dependencies
-
 
 def outdated_packages_list():
     """
+    Function to check dependencies
+
     check requirements.txt file using pip-outdated
 
     Returns:
@@ -167,16 +169,31 @@ def outdated_packages_list():
     return dd_out
 
 
+def missing_percentage():
+    """
+    missing_percentage _summary_
+
+    _extended_summary_
+
+    Returns:
+        _type_: _description_
+    """
+    df = pd.read_csv(f"{setup.OUTPUT_FOLDER_PATH}/finaldata.csv")
+    missing_list = {col: {'percentage': perc} for col, perc in zip(
+        df.columns, df.isna().sum() / df.shape[0] * 100)}
+    return missing_list
+
+
 if __name__ == '__main__':
     logging.info("diagnostics")
     setup = Settings()
 
     logging.info("loading test data")
     df = pd.read_csv(f"{setup.TEST_DATA_PATH}/testdata.csv")
-    X = df.drop(['corporation', 'exited'], axis=1)
     y = df['exited'].values
-
-    y_pred, f1 = model_predictions(X)
+    X = df.drop(['corporation', 'exited'], axis=1)
+    y_pred, f1 = model_predictions(df_X=X,
+                                   y=y)
     stat_dict = dataframe_summary()
     execution_time()
     outdated_packages_list()

@@ -2612,3 +2612,1472 @@ final df shape: (26, 5)
         5
     ]
 }
+ingestion date: 14/02/2023 11:34:22
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:22
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:23
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:23
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:24
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:24
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:24
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:25
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:25
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:26
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:26
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:27
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:27
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:27
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:28
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:28
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:29
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:29
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:30
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:34:30
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:12
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:13
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:13
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:13
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:14
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:14
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:15
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:15
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:15
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:16
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:16
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:17
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:17
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:18
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:18
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:18
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:19
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:19
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:20
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:40:20
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:24
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:25
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:25
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:25
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:26
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:26
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:27
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:27
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:28
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:28
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:28
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:29
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:29
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:30
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:30
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:31
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:31
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:31
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:32
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 11:48:32
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:12:40
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:12:41
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:12:41
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:12:42
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:12:42
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:12:43
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:12:43
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:12:43
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:12:44
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:12:44
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:12:45
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:12:45
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:12:46
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:26
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:26
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:26
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:27
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:27
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:28
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:28
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:29
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:29
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:29
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:30
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:30
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:31
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:31
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:32
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:32
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:33
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:33
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:33
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:14:34
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:05
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:05
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:06
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:06
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:06
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:07
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:07
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:08
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:08
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:09
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:09
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:09
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:10
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:10
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:11
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:11
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:12
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:12
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:13
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
+ingestion date: 14/02/2023 12:16:13
+
+final df shape: (26, 5)
+{
+    "dataset1.csv": [
+        17,
+        5
+    ],
+    "dataset2.csv": [
+        19,
+        5
+    ]
+}
