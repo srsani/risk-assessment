@@ -33,10 +33,11 @@ def merge_multiple_dataframe(setup):
 
     logging.info(f"Reading files from {setup.INPUT_FOLDER_PATH}")
     for file in os.listdir(setup.INPUT_FOLDER_PATH):
-        file_path = f"{setup.INPUT_FOLDER_PATH}/{file}"
-        df_tmp = pd.read_csv(file_path)
-        df = pd.concat([df, df_tmp], ignore_index=True)
-        df_dict[file] = df_tmp.shape
+        if file != ".DS_Store":
+            file_path = f"{setup.INPUT_FOLDER_PATH}/{file}"
+            df_tmp = pd.read_csv(file_path)
+            df = pd.concat([df, df_tmp], ignore_index=True)
+            df_dict[file] = df_tmp.shape
 
     logging.info("dropping duplicates")
     df = df.drop_duplicates().reset_index(drop=1)

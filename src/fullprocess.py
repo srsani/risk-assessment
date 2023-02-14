@@ -41,10 +41,8 @@ def go():
     print(df.columns)
     # determine whether the source data folder has files that aren't listed in ingestedfiles.txt
     source_files = set(os.listdir(setup.INPUT_FOLDER_PATH))
-    print(source_files)
 
     new_file_list = list(sorted(source_files - set(df.columns)))
-    print(new_file_list)
 
     # if new data, proceed; otherwise,STOP
     if not new_file_list:
@@ -54,7 +52,6 @@ def go():
 
         logging.info("merging data")
         subprocess.run(['python', 'src/ingestion.py'], capture_output=True)
-
         # Checking for model drift
         with open(f"{setup.PROD_DEPLOYMENT_PATH}/latestscore.txt") as file:
             current_f1 = float(re.findall(
