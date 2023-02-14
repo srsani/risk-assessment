@@ -7,6 +7,7 @@ from datetime import datetime
 
 
 from setup import Settings
+setup = Settings()
 
 
 logging.basicConfig(
@@ -41,15 +42,14 @@ def merge_multiple_dataframe(setup):
     df = df.drop_duplicates().reset_index(drop=1)
 
     logging.info("saving ingested metadata")
-    with open(f"{setup.OUTPUT_FOLDER_PATH}/ingestedfiles.txt", "+a") as f:
-        f.write(
-            f"\ningestion date: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n")
-        f.write(f"\nfinal df shape: {df.shape}\n")
+    with open(f"{setup.OUTPUT_FOLDER_PATH}/ingestedfiles.txt", "w") as f:
+        # f.write(
+        #     f"\ningestion date: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n")
+        # f.write(f"\nfinal df shape: {df.shape}\n")
         f.write(json.dumps(df_dict, indent=4))
 
-    logging.info("Saving ingested data")
-    df.to_csv(os.path.join(setup.OUTPUT_FOLDER_PATH,
-              'finaldata.csv'), index=False)
+    logging.info("saving ingested data")
+    df.to_csv(f"{setup.OUTPUT_FOLDER_PATH}/finaldata.csv", index=False)
 
 
 if __name__ == '__main__':

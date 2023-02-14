@@ -1,31 +1,37 @@
-import pickle
-from sklearn.model_selection import train_test_split
-import pandas as pd
-import numpy as np
-from sklearn import metrics
+"""
+Author: Sohrab Sani
+Date: February, 2021
+This script used for plot and saveing confusionmatrix.png 
+"""
+from sklearn.metrics import ConfusionMatrixDisplay, confusion_matrix
 import matplotlib.pyplot as plt
-import seaborn as sns
-import json
-import os
+import pandas as pd
+from diagnostics import model_predictions
 
 
-
-###############Load config.json and get path variables
-with open('config.json','r') as f:
-    config = json.load(f) 
-
-dataset_csv_path = os.path.join(config['output_folder_path']) 
+from setup import Settings
+setup = Settings()
 
 
-
-
-##############Function for reporting
 def score_model():
-    #calculate a confusion matrix using the test data and the deployed model
-    #write the confusion matrix to the workspace
+    """
+   Function for reporting
 
+    calculate a confusion matrix using the test data and the deployed model
+    write the confusion matrix to the workspace
+    """
 
+    df = pd.read_csv(f"{setup.OUTPUT_FOLDER_PATH}/finaldata.csv")
+    X = df.drop(['corporation', 'exited'], axis=1)
+    y = df['exited'].values
 
+    y_pred, _ = model_predictions(X, y)
+
+    cm = confusion_matrix(y, y_pred)
+    disp = ConfusionMatrixDisplay(confusion_matrix=cm)
+
+    plot = disp.plot(cmap=plt.cm.Blues)
+    plot.figure_.savefig(f"{setup.OUTPUT_MODEL_PATH}/confusionmatrix.png")
 
 
 if __name__ == '__main__':

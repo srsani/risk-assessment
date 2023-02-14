@@ -1,0 +1,1 @@
+5 * * * * sh /home/ubuntu/risk-assessment/run_scrip.sh

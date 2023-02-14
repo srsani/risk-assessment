@@ -5,7 +5,6 @@ This script used for training model on the ingested data
 """
 import pandas as pd
 import numpy as np
-from sklearn.linear_model import LogisticRegression
 from sklearn import metrics
 import logging
 import subprocess
