@@ -1,1 +1,1 @@
-5 * * * * sh /home/ubuntu/risk-assessment/run_scrip.sh
+*/10 * * * * python src/app.py && python src/fullprocess.py
